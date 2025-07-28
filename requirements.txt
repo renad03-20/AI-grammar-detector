@@ -1,0 +1,4 @@
+openai
+language-tool-python
+langdetect
+python-dotenv
