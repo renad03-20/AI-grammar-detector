@@ -1,0 +1,7 @@
+# Ignore Python venv and env files
+venv/
+__pycache__/
+*.pyc
+
+# Ignore .env file with API keys
+.env
